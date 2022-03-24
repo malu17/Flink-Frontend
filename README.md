@@ -129,7 +129,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## Author
  ## :enter_belu: 
-* **elias fiseha** - [malu17](https://github.com/malu17)
+ **elias fiseha** - [malu17](https://github.com/malu17)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/JulianR_30.svg?style=social&label=Follow)](https://twitter.com/eliasfiseha1)
 
